@@ -2,6 +2,7 @@
                     <div class="background-media" style="background-image: url('<?php echo base_url();?>assets/images/RKI_LOGO.jpg'); background-repeat: no-repeat; background-size: cover; background-attachment: fixed; background-position: 50%;" data-start="background-position:50% 0px"
                     data-70-top-bottom="background-position:50% -90px">
                     </div>
+                  
                     <div class="background-overlay grid-overlay-20 "></div>
                     <div class="container">
                         <div class="row">
@@ -14,7 +15,7 @@
                                 </div>
                                 <header class="os-animation condensed" data-os-animation="fadeIn" data-os-animation-delay="0s">
                                     <h1 class="super hairline bordered-normal">
-                    <strong>TENTANG KAMI</strong>
+                    <strong></strong>
                 </h1>
                                 </header>
                                 <div class="divider-wrapper" style="visibility:hidden;">
@@ -27,64 +28,26 @@
                         </div>
                     </div>
                 </section>
-                <section class='section section swatch-black'>
-                    <div class='background-overlay grid-overlay-10' style='background-color: rgba(130,209,12,1);'></div>
-                    <div class='container'>
-                        <div class='row'>
-                        <div class='col-md-20 text-center'>
-                        <header class='text-center element-short-top element-short-bottom not-condensed os-animation' data-os-animation-delay='.0s' data-os-animation='fadeInLeft'>
-                        <h2 class='black big'>
-                        Seputar Tentang Kami
-                        </h2>
-                        </header>
+                 <section class='section swatch-overlay'>
+            <div class='container'>
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <div class="jumbotron swatch-blue  element-short-top element-short-bottom os-animation" data-os-animation="fadeIn" data-os-animation-delay="0s">
+                            <h1>Rumah Karya Indonesia</h1>
+                            <p>
+                                Lahir dari energi kearifan-kearifan lokal yang ada di Indonesia khususnya Sumatera Utara. Rumah Karya Indonesia merupakan lembaga non profit yang memproduksi dan memanajerial pertunjukan, riset, publikasi, dan dokumentasi seni masyarakat. <br>
+                                Berdiri enam tahun lalu dan tetap konsisten dalam penguatan Sumber Daya Manusia khususnya untuk daerah Sumatera Utara melalui anak muda. Kearifan lokal menjadi bingkai isu yang dipadukan dengan isu yang berkembang di masyarakat seperti isu lingkungan hidup dan toleransi. Nilai-nilai yang diyakini Rumah Karya Indonesia akan diolah lalu ditransfer kepada generasi muda melalui kegiatan dengan menggali, menghadirkan, berbagi, bermamfaat, dan berdampak bagi pada setiap elemen pengetahuan baik masyarakat maupun individu.<br>
+                                Dalam ruang Rumah Karya Indonesia memakai rumah sebagai lambang filosofi. Tentu kita memiliki ruang favorit sendiri di rumah kita dengan hal-hal yang membuat kita nyaman dan ingin tetap tinggal di dalamnya. 
+                                <br> Rumah Karya Indonesia dibagi menjadi tiga ruang, yakni: <Strong>Dapur, Ruang Tamu, Teras </Strong>
+
+
+                            </p>
                         </div>
                     </div>
-                    </div>
-                </section>
-                                <section class="section swatch-black section-text-shadow section-inner-shadow">
-                    <div class="background-media" style="background-image: url('assets/images/uploads/food-ls-1.jpg'); background-repeat: no-repeat; background-size: cover; background-attachment: fixed; background-position: 50%;" data-start="background-position:50% 0px"
-                    data-70-top-bottom="background-position:50% -90px">
-                    </div>
-                    <div class="background-overlay grid-overlay-20 "></div>
-                    <div class="container">
-                        <div class="row col-md-12 element-short-top element-short-bottom">
-                            <div id="slider-flex47" class="flexslider os-animation element-normal-top element-normal-bottom text-center" data-os-animation="fadeInUp" data-os-animation-delay=".1s" data-flex-speed="7000" data-flex-animation="slide" data-flex-directions="hide" data-flex-controls="show"
-                            data-flex-controlsalign="center">
-                                <ul class="slides">
-                                    <li>
-                                        <blockquote>
-                                            <p>Chance had strangely favoured Phileas Fogg, for had not the Carnatic been forced to lie over for repairing her boilers, she would have left on the 6th of November, and the passengers for Japan would have been
-                                                obliged to await for a week the sailing of the next steamer. Mr. Fogg was, it is true, twenty-four hours behind his time; but this could not seriously imperil the remainder of his tour.</p>
-                                            <footer>
-                                                Jimmy Doe
-                                            </footer>
-                                        </blockquote>
-                                    </li>
-                                    <li>
-                                        <blockquote>
-                                            <p>The steamer which crossed the Pacific from Yokohama to San Francisco made a direct connection with that from Hong Kong, and it could not sail until the latter reached Yokohama; and if Mr. Fogg was twenty-four
-                                                hours late on reaching Yokohama, this time would no doubt be easily regained in the voyage of twenty-two days across the Pacific. He found himself, then, about twenty-four hours behind-hand.</p>
-                                            <footer>
-                                                Jane Doe
-                                            </footer>
-                                        </blockquote>
-                                    </li>
-                                    <li>
-                                        <blockquote>
-                                            <p>On landing, he conducted her to a palanquin, in which they repaired to the Club Hotel. A room was engaged for the young woman, and Mr. Fogg, after seeing that she wanted for nothing, set out in search of her
-                                                cousin Jeejeeh. He instructed Passepartout to remain at the hotel until his return, that Aouda might not be left entirely alone.</p>
-                                            <footer>
-                                                Sam Doe
-                                            </footer>
-                                        </blockquote>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-                   <section class='section section swatch-black'>
-                    <div class='background-overlay grid-overlay-10' style='background-color: rgba(210,105,30,1);'></div>
+                </div>
+            </div>
+        </section>
+   <section class='section section swatch-blue'>
                     <div class='container'>
                         <div class='row'>
                         <div class='col-md-20 text-center'>
@@ -99,32 +62,35 @@
                 </section>
                 <section id="two" class="section swatch-white">
                     <div class="container">
-                        <div class="row " data-os-animation="" data-os-animation-delay="">
-                            <div class="col-md-3 ">
+                        <div class="row " data- -animation="" data-os-animation-delay="">
+                            <div class="col-md-4 text ">
                                 <div class="element-medium-top element-medium-bottom text-center os-animation" data-os-animation="fadeInUp" data-os-animation-delay=".0s">
                                     <div class="box box-round box-normal element-normal-top element-short-bottom">
                                         <div class="box-dummy"></div>
                                         <div class="box-inner grid-overlay-0" style="background-color:#82d10c;">
                                             <div class="box-animate" data-animation="bounce">
-                                                <img class="" src="assets/images/icons/glass-512w.png" alt="a clock" />
+                                                <a href="<?php echo site_url('tentang/dapur');?>">
+                                                <img class="" src="<?php echo base_url();?>assets/images/icons/dapur.png" alt="a clock" />
+                                            </a>
                                             </div>
                                         </div>
                                     </div>
                                     <h3 class="normal bold bordered bordered-small regular">
+
         
             Profil Team Dapur
         
     </h3>
-                                    <p class="normal">Nor when <strong>expandingly</strong> lifted by your subject, can you fail to trace out great whales in the starry heavens, and boats.</p>
+                                    <p class="normal">Tempat memasak. Tempat pasokan logistik berasal. Mengingat dapur bukan hanya mengingat ibu dengan bunyi panci di penggorengan atau tumpukan piring kotor. <Strong>Lebih dari itu, di Rumah karya Indonesia, dapur menjadi asal muasal berdirinya rumah itu sendiri.</Strong> Fondasi dari segala kegiatan yang digelar dan mungkin bisa juga disebut penasehat agung.</p>
                                 </div>
                             </div>
-                            <div class="col-md-3 ">
+                            <div class="col-md-4 ">
                                 <div class="element-medium-top element-medium-bottom text-center os-animation" data-os-animation="fadeInUp" data-os-animation-delay=".3s">
                                     <div class="box box-round box-normal element-normal-top element-short-bottom">
                                         <div class="box-dummy"></div>
                                         <div class="box-inner grid-overlay-10" style="background-color:#f04705;">
                                             <div class="box-animate" data-animation="bounce">
-                                                <img class="" src="assets/images/icons/star-512w.png" alt="a gift" />
+                                                <img class="" src="<?php echo base_url();?>assets/images/icons/ruang.jpg" alt="a gift" />
                                             </div>
                                         </div>
                                     </div>
@@ -133,16 +99,17 @@
             Profil Team Ruang Tamu
         
     </h3>
-                                    <p class="normal">Nor when <strong>expandingly</strong> lifted by your subject, can you fail to trace out great whales in the starry heavens, and boats.</p>
+                                    <p class="normal">Tempat ide-ide dicetuskan, dirembukkan, lalu di dieksekusi. Selaiknya ruang tamu, selalu saja ada hal yang jadi bahan obrolan, baik berat maupun ringan. Orangnya serius-serius, muka berkerut.  
+                                    <Strong>Tapi tiada tempat yang sehangat ruang tamu. Ruang tamu bukan hanya tempat kerja atau kumpul bicara hal serius. Ruang tamu lebih dari itu. ruang ini yang membuat Rumah Karya Indonesia itu benar-benar menjadi rumah, keluarga. </Strong></p>
                                 </div>
                             </div>
-                            <div class="col-md-3 ">
+                            <div class="col-md-4 ">
                                 <div class="element-medium-top element-medium-bottom text-center os-animation" data-os-animation="fadeInUp" data-os-animation-delay=".6s">
                                     <div class="box box-round box-normal element-normal-top element-short-bottom">
                                         <div class="box-dummy"></div>
                                         <div class="box-inner grid-overlay-10" style="background-color:#edbc07;">
                                             <div class="box-animate" data-animation="bounce">
-                                                <img class="" src="assets/images/icons/music-512w.png" alt="a support" />
+                                                <img class="" src="<?php echo base_url();?>assets/images/icons/teras.png" alt="a support" />
                                             </div>
                                         </div>
                                     </div>
@@ -151,205 +118,106 @@
             Profil Team Teras
         
     </h3>
-                                    <p class="normal">Nor when <strong>expandingly </strong> lifted by your subject, can you fail to trace out great whales in the starry heavens, and boats.</p>
-                                </div>
-                            </div>
-                            <div class="col-md-3 ">
-                                <div class="element-medium-top element-medium-bottom text-center os-animation" data-os-animation="fadeInUp" data-os-animation-delay=".9s">
-                                    <div class="box box-round box-normal element-normal-top element-short-bottom">
-                                        <div class="box-dummy"></div>
-                                        <div class="box-inner grid-overlay-10" style="background-color:#a8bed0;">
-                                            <div class="box-animate" data-animation="bounce">
-                                                <img class="" src="assets/images/icons/clock-512w.png" alt="a clock" />
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <h3 class="normal bold bordered bordered-small regular">
-        
-            Profil Team Kegiatan
-        
-    </h3>
-                                    <p class="normal">Nor when expandingly lifted by your <strong>subject</strong>, can you fail to trace out great whales in the starry heavens, and boats.</p>
+                                    <p class="normal">Ruang paling luar. Muara orang hilir mudik, datang dan pergi. Ruang paling relax dan fun. Rumah Karya Indonesia terbuka untuk umum, siapa saja dapat berkunjung di teras dan bergabung sebagai volunteer. 
+                                    <Strong>Selain menjadi rumah, Rumah Karya Indonesia juga disebut laboratorius,</Strong> tempat orang-orang bereksperimen, barangkali ingin mengecap bagaimana rasanya menjadi orang seni-senian.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </section>
-                <section id="two" class="section swatch-white">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-6 os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0s">
-                                <img src="http://theme-background-videos.s3.amazonaws.com/food.jpg" alt="food">
-                            </div>
-                            <div class="col-md-6  text-left">
-                                <header class="text-center  element-normal-top element-medium-bottom not-condensed os-animation" data-os-animation="fadeIn" data-os-animation-delay="0s">
-                                    <h1 class="big hairline bordered bordered-normal">
-                    Recipe of the day
-                </h1>
-                                </header>
-                                <ul class="features-list  element-no-top element-no-bottom" data-linecolor="#82c9ed" data-os-animation="none" data-os-animation-delay="0s">
-                                    <li class="element-no-top element-short-bottom os-animation" data-os-animation="fadeInRight" data-os-animation-delay="0s">
-                                        <div class="features-list-icon box-animate" style="background-color:#7ec760;" data-animation="">
-                                            <img src="assets/images/icons/clock-512w.png" alt="clock">
-                                        </div>
-                                        <h3>
-                        Preparation
-                    </h3>
-                                        <p>
-                                            Omega is designed with the latest technologies so that your website will look sharp and stunning even on high resolution retina displays.
-                                        </p>
-                                    </li>
-                                    <li class="element-short-top element-short-bottom os-animation" data-os-animation="fadeInRight" data-os-animation-delay="0s">
-                                        <div class="features-list-icon box-animate" style="background-color:#fe7b70;" data-animation="">
-                                            <img src="assets/images/icons/sun-512w.png" alt="clock">
-                                        </div>
-                                        <h3>
-                        Temperature
-                    </h3>
-                                        <p>
-                                            No need to worry about building your content anymore! Pages can be built easily using WPBakery’s super easy Visual Composer plugin.
-                                        </p>
-                                    </li>
-                                    <li class="element-short-top element-short-bottom os-animation" data-os-animation="fadeInRight" data-os-animation-delay="0s">
-                                        <div class="features-list-icon box-animate" style="background-color:#ea9952;" data-animation="">
-                                            <img src="assets/images/icons/heart-512w.png" alt="clock">
-                                        </div>
-                                        <h3>
-                        Calories
-                    </h3>
-                                        <p>
-                                            This Theme has a fully responsive layout. It will respond and fit to a large desktop, tablet screens and all the way down to a mobile sized display.
-                                        </p>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                <!-- ------------------------------------------------------------------------------- -->
+                <section class='section swatch-blue'>
+            <div class='container'>
+                    <div class='row'>
+                        <header class='text-center element-short-top element-short-bottom not-condensed os-animation' data-os-animation-delay='.0s' data-os-animation='fadeInLeft'>
+                            <h2 class='black big'>
+                            Mitra Kerja Rumah Karya Indonesia
+                            </h2>
+                        </header>
                     </div>
-                </section>
-                <section class="section section swatch-black section-text-shadow">
-                    <div class="background-overlay grid-overlay-10 " style="background-color: rgba(130,209,12,1);"></div>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12 text-center">
-                                <header class="text-center element-normal-top element-medium-bottom os-animation condensed" data-os-animation="fadeInDown" data-os-animation-delay="0s">
-                                    <h1 class="bigger hairline bordered-normal">
-                    We use the best materials to produce the best result. Book your dinner now and get 25% off for your drinks.
-                </h1>
-                                </header>
-                                <a href="contact-small-map" class="btn btn-link btn-lg element-short-top element-normal-bottom os-animation" target="_self" data-os-animation="fadeInUp" data-os-animation-delay="0s">
-                book now
-            </a>
-                            </div>
-                        </div>
+                </div>
+            </div>
+        </section>
+                <!-- ------------------------------------------------------------------------------- -->
+        <section class="section swatch-white">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="divider-wrapper" style="visibility:hidden;background-color:#FFFFFF">
+                            <div class="visible-xs" style="height:96px;"></div>
+                            <div class="visible-sm" style="height:96px;"></div>
+                            <div class="visible-md" style="height:96px;"></div>
+                            <div class="visible-lg" style="height:96px;"></div>
+                        </div> 
+                    </div> 
+                </div>    
+                <div class="row">
+                    <div class="col-md-6">
+                        <ul class="features-list element-no-top element-no-bottom features-connected" data-linecolor="#82c9ed" data-os-animation="none" data-os-animation-delay="0s">
+                            <li class=" element-no-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.1s">
+                                <div class="features-list-icon box-animate" style="background-color:#95ceea;" data-animation="bounce">
+                                    <img src="<?php echo base_url();?>assets/images/mitra/logo_sumut.jpg" alt="calendar-512">
+                                </div><br><p></p>
+                                <h3>Pemerintah Sumatera Utara</h3>
+                            </li>
+                            <li class=" element-short-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.2s">
+                                <div class="features-list-icon box-animate" style="background-color:#fbe28c;" data-animation="">
+                                    <img src="<?php echo base_url();?>assets/images/mitra/logo_kaldera.jpg" alt="calendar-512">
+                                </div><br><p></p>
+                                <h3>Geopark Kaldera Toba</h3>
+                                     <li class=" element-short-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.2s">
+                                <div class="features-list-icon box-animate" style="background-color:#fbe28c;" data-animation="">
+                                    <img src="<?php echo base_url();?>assets/images/mitra/logo_tobasamosir.png" alt="calendar-512">
+                                </div><br><p></p>
+                                <h3>Pemerintah Kabupaten Humbang Hasundutan</h3>
+                            </li>
+                            <li class=" element-short-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.3s">
+                                <div class="features-list-icon box-animate" data-animation="">
+                                    <img src="<?php echo base_url();?>assets/images/mitra/logo_simalungun.png" alt="calendar-512">
+                                </div><br><p></p> 
+                                <h3>Pemerintah Kabupaten Simalungun</h3>
+                            </li>
+                            </li>
+                            <li class=" element-short-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.3s">
+                                <div class="features-list-icon box-animate"  data-animation="">
+                                    <img src="<?php echo base_url();?>assets/images/mitra/logo_taput.png" alt="calendar-512">
+                                </div><br><p></p> 
+                                <h3>Pemerintah Tapanuli Utara</h3>
+                            </li>
+                        </ul>
                     </div>
-                </section>
+                    <div class="col-md-6">
+                        <ul class="features-list  element-no-top element-no-bottom features-connected" data-linecolor="#82c9ed"     data-os-animation="none" data-os-animation-delay="0s">
+                            <li class=" element-no-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.4s">
+                                <div class="features-list-icon box-animate"  data-animation="shake">
+                                     <img src="<?php echo base_url();?>assets/images/mitra/logo_simalungun.png" alt="calendar-512">
+                                </div><br><p></p> 
+                                <h3>Pemerintah Kabupaten Simalungun</h3>
+                            </li>
+                            <li class=" element-normal-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.4s">
+                                <div class="features-list-icon box-animate"  data-animation="swing">
+                                        <img src="<?php echo base_url();?>assets/images/mitra/logo_banksumut.png" alt="calendar-512">
+                                </div>
+                                <h3>Bank SUMUT</h3>
+                            </li>
+                            <li class=" element-no-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.4s">
+                                <div class="features-list-icon box-animate" style="background-color:#ac7a61;" data-animation="shake">
+                                     <img src="<?php echo base_url();?>assets/images/mitra/logo_doloksipiak.png" alt="calendar-512">
+                                </div><br><p></p> 
+                                <h3>Komunitas Dolok Sipiak</h3>
+                            </li>
+                             <li class=" element-short-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.4s">
+                                <div class="features-list-icon box-animate" data-animation="shake">
+                                     <img src="<?php echo base_url();?>assets/images/mitra/logo_seni.png" alt="calendar-512">
+                                </div> 
+                                <h3>Komunitas Desa Seni SILABAN</h3>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+                <!-- ------------------------------------------------------------------------------- -->
+       
             </article>
-                   <div class="row">
-                                    <div class="col-md-6">
-                                        <ul class="features-list  element-no-top element-no-bottom features-connected" data-linecolor="#82c9ed" data-os-animation="none" data-os-animation-delay="0s">
-                                            <li class=" element-no-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.1s">
-                                                <div class="features-list-icon box-animate" style="background-color:#95ceea;" data-animation="bounce">
-                                                    <img src="assets/images/icons/gift-512w.png" alt="gift">
-                                                </div>
-                                                <h3>Use lines</h3>
-                                                <p>
-                                                    Omega is designed with the latest technologies so that your website will look sharp and stunning even on high resolution retina displays.
-                                                </p>
-                                            </li>
-                                            <li class=" element-short-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.2s">
-                                                <div class="features-list-icon box-animate" style="background-color:#95ceea;" data-animation="">
-                                                    <img src="assets/images/icons/key-512w.png" alt="key">
-                                                </div>
-                                                <h3>SVG icons</h3>
-                                                <p>
-                                                    No need to worry about building your content anymore! Pages can be built easily using the latest bootstrap elements.
-                                                </p>
-                                            </li>
-                                            <li class=" element-short-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.3s">
-                                                <div class="features-list-icon box-animate" style="background-color:#95ceea;" data-animation="">
-                                                    <img src="assets/images/icons/heart-512w.png" alt="heart">
-                                                </div>
-                                                <h3>Add your style</h3>
-                                                <p>
-                                                    This Theme has a fully responsive layout. It will respond and fit to a large desktop, tablet screens and all the way down.
-                                                </p>
-                                            </li>
-                                            <li class=" element-short-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.3s">
-                                                <div class="features-list-icon box-animate" style="background-color:#95ceea;" data-animation="">
-                                                    <img src="assets/images/icons/map-pin-512w.png" alt="map-pin">
-                                                </div>
-                                                <h3>Add your content</h3>
-                                                <p>
-                                                    This Theme has a fully responsive layout. It will respond and fit to a large desktop, tablet screens and all the way down.
-                                                </p>
-                                            </li>
-                                            <li class=" element-short-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.3s">
-                                                <div class="features-list-icon box-animate" style="background-color:#95ceea;" data-animation="">
-                                                    <img src="assets/images/icons/graph-512w.png" alt="graph">
-                                                </div>
-                                                <h3>And done</h3>
-                                                <p>
-                                                    This Theme has a fully responsive layout. It will respond and fit to a large desktop, tablet screens and all the way down.
-                                                </p>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <ul class="features-list  element-no-top element-no-bottom" data-linecolor="#82c9ed" data-os-animation="none" data-os-animation-delay="0s">
-                                            <li class=" element-no-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.4s">
-                                                <div class="features-list-icon box-animate" style="background-color:#ac7a61;" data-animation="shake">
-                                                    <img src="assets/images/icons/drop-512w.png" alt="drop">
-                                                </div>
-                                                <h3>Retina ready</h3>
-                                                <p>
-                                                    Omega is designed with the latest technologies so that your website will look sharp and stunning even on high resolution retina displays.
-                                                </p>
-                                            </li>
-                                            <li class=" element-no-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.4s">
-                                                <div class="features-list-icon box-animate" style="background-color:#94d9cd;" data-animation="swing">
-                                                    <img src="assets/images/icons/ballpoint-pen-512.png" alt="ballpoint-pen">
-                                                </div>
-                                                <h3>Awesome looks</h3>
-                                                <p>
-                                                    Omega is designed with the latest technologies so that your website will look sharp and stunning even on high resolution retina displays.
-                                                </p>
-                                            </li>
-                                            <li class=" element-no-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.4s">
-                                                <div class="features-list-icon box-animate" style="background-color:#fbe28c;" data-animation="wiggle">
-                                                    <img src="assets/images/icons/clipboard-512.png" alt="clipboard">
-                                                </div>
-                                                <h3>Highly customisable</h3>
-                                                <p>
-                                                    Omega is designed with the latest technologies so that your website will look sharp and stunning even on high resolution retina displays.
-                                                </p>
-                                            </li>
-                                            <li class=" element-no-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.4s">
-                                                <div class="features-list-icon box-animate" style="background-color:#eda4b7;" data-animation="tada">
-                                                    <img src="assets/images/icons/compass-512.png" alt="compass">
-                                                </div>
-                                                <h3>Easy to use</h3>
-                                                <p>
-                                                    Omega is designed with the latest technologies so that your website will look sharp and stunning even on high resolution retina displays.
-                                                </p>
-                                            </li>
-                                            <li class=" element-no-top element-short-bottom" data-os-animation="none" data-os-animation-delay="0.4s">
-                                                <div class="features-list-icon box-animate" style="background-color:#9a8666;" data-animation="tada">
-                                                    <img src="assets/images/icons/cogs-512w.png" alt="cogs">
-                                                </div>
-                                                <h3>Easy to love</h3>
-                                                <p>
-                                                    Omega is designed with the latest technologies so that your website will look sharp and stunning even on high resolution retina displays.
-                                                </p>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="divider-wrapper" style="visibility:hidden;background-color:#FFFFFF">
-                                    <div class="visible-xs" style="height:96px;"></div>
-                                    <div class="visible-sm" style="height:96px;"></div>
-                                    <div class="visible-md" style="height:96px;"></div>
-                                    <div class="visible-lg" style="height:96px;"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                   

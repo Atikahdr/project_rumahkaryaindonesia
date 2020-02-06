@@ -14,6 +14,13 @@ class tentang extends CI_Controller
 		$this->load->view('tentang/tentang_kami_view');
 		$this->load->view('inc/frontend_footer_view');
 	}
+	public function dapur()
+	{
+		
+		$this->load->view('inc/frontend_header_view');
+		$this->load->view('tentang/dapur_view');
+		$this->load->view('inc/frontend_footer_view');
+	}
 }
 
 

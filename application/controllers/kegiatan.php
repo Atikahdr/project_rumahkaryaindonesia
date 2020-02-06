@@ -56,6 +56,13 @@ class kegiatan extends CI_Controller
 		$this->load->view('kegiatan/laketoba_view');
 		$this->load->view('inc/frontend_footer_view');
 	}
+	public function jongbtk()
+	{
+		
+		$this->load->view('inc/frontend_header_view');
+		$this->load->view('kegiatan/jongbtk_view');
+		$this->load->view('inc/frontend_footer_view');
+	}
 }
 
 

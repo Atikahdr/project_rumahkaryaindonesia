@@ -93,7 +93,7 @@
                                                 </a>
                                 </li>
                                 <li>
-                                    <a href="page-services.html">Jong Bataks Arts Festival
+                                    <a href="<?php echo site_url('kegiatan/jongbtk');?>">Jong Bataks Arts Festival
                                                     
                                                 </a>
                                 </li>
@@ -108,9 +108,25 @@
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Daftar</a>
                                                    </li>
-                       <li class="dropdown menu-item-object-oxy_mega_menu ">
-                            <a href="<?php echo site_url('tentang');?>" >Tentang Kami</a>
-                            
+                        <li class="dropdown">
+                            <a href="<?php echo site_url('tentang');?>" class="dropdown-toggle" data-toggle="dropdown" >Tentang Kami</a>
+                           <ul class="dropdown-menu">
+                                <li>
+                                    <a href="<?php echo site_url('kegiatan/geobike');?>">Filosofi RKI
+                                                    
+                                                </a>
+                                </li>
+                                <li>
+                                    <a href="<?php echo site_url('kegiatan/dokan');?>">Team Kerja
+                                                    
+                                                </a>
+                                </li>
+                                 <li>
+                                    <a href="<?php echo site_url('kegiatan/dokan');?>">Mitra
+                                                    
+                                                </a>
+                                </li>
+                                </ul> 
                         </li>
                 </nav>
             </div>
